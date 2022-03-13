@@ -1,14 +1,8 @@
 ---
 title: "Wspomaganie procesu podejmowania decyzji o wyborze samochodu premium"
 author: "Maciej Bugaj"
-output:
-    html_document: 
-      number_sections: yes
-      theme: united
-      toc: yes
-      toc_float: yes
-      dev: svg
-      highlight: haddock
+
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
